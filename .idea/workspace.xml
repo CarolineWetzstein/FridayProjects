@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="614a8e75-b102-4722-92cf-cadcc460690b" name="Changes" comment="Tasks from week 2 and week 3 of Friday Projects">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/_01SchoolData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/_02SumAndMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/_03AreaAndPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/_04BMICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/_05NameAndPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/_06PrintText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/_07PrintOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week3/_01FinishWithX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week3/_02SumOfNummbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week3/_03PrintYesOrNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week3/_04Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week3/_05MultiplicationTable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week3/_06SumNumbersDiff6And10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week3/_07MultiplicationTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week9/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week9/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week9/runATM.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2XiJKMHUgeKl2os8Gv770cEADDD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/techno.study/Documents/SDET_course_2023/SDET_Course/Github_projects/TS_FridayProjects/src/main/java/Week9"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\techno.study\Documents\SDET_course_2023\SDET_Course\Github_projects\TS_FridayProjects\src\main\java\Week9" />
+      <recent name="C:\Users\techno.study\Documents\SDET_course_2023\SDET_Course\Github_projects\TS_FridayProjects\src\main\java\Week3" />
+      <recent name="C:\Users\techno.study\Documents\SDET_course_2023\SDET_Course\Github_projects\TS_FridayProjects\src\main\java\Week23" />
+      <recent name="C:\Users\techno.study\Documents\SDET_course_2023\SDET_Course\Github_projects\TS_FridayProjects\src\main\java\Week22" />
+      <recent name="C:\Users\techno.study\Documents\SDET_course_2023\SDET_Course\Github_projects\TS_FridayProjects\src\main\java\Week21" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\techno.study\Documents\SDET_course_2023\SDET_Course\Github_projects\TS_FridayProjects\src\main\java\Week2" />
+      <recent name="C:\Users\techno.study\Documents\SDET_course_2023\SDET_Course\Github_projects\TS_FridayProjects\src\main\java\Week1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="614a8e75-b102-4722-92cf-cadcc460690b" name="Changes" comment="" />
+      <created>1699105905833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699105905833</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tasks from week 2 and week 3 of Friday Projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks from week 2 and week 3 of Friday Projects" />
+  </component>
+</project>
